@@ -10,5 +10,9 @@ I'm Dylan, a senior software engineer passionate about web and app development, 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### Connect with me
-🌐 [Check out my website!]([https://your-website-url.com](https://dylan-hepworth.github.io/))
+![GIF](https://media.giphy.com/media/12OFWcTm1ikxe8VwD1/giphy.gif)
+
+🌐 [👆👆👆 Check out my website! 👆👆👆](https://dylan-hepworth.github.io/)
+
+
 
